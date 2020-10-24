@@ -7,7 +7,7 @@ Authors: Gábor Lengyel, Marton Nagy & József Fiser
 
 DOI: TBA
 
-The scripts were written by Daniel M. Wolpert, Mate Lengyel, and Gabor Lengyel
+The scripts were written by Gabor Lengyel
 
 
 Instructions:
