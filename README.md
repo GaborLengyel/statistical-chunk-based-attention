@@ -16,11 +16,11 @@ Instructions:
 
 1. Run *Experiment1_FrequentistStat.ipynb* with jupyter notebook (python 2 or 3) to see the frequentist statistical analysis and plots for experiment 1
 
-2. Run *Experiment1_BayesianStat.ipynb* with jupyter notebook (R with BayesFactor 0.9.12-4.2. package) to see the Bayesian statistical analysis for experiment 1
+2. Run *Experiment1_BayesianStat.ipynb* with jupyter notebook (R with BayesFactor 0.9.12-4.2. package) to see the Bayesian statistical analysis for experiment 1 (this script uses csv files that are written out in *Experiment1_FrequentistStat.ipynb* to /data/results folder)
 
 1. Run *Experiment2_FrequentistStat.ipynb* with jupyter notebook (python 2 or 3) to see the frequentist statistical analysis and plots for experiment 2
 
-2. Run *Experiment2_BayesianStat.ipynb* with jupyter notebook (R with BayesFactor package) to see the Bayesian statistical analysis for experiment 2
+2. Run *Experiment2_BayesianStat.ipynb* with jupyter notebook (R with BayesFactor package) to see the Bayesian statistical analysis for experiment 2 (this script uses csv files that are written out in *Experiment2_FrequentistStat.ipynb* to /data/results folder)
 
 
 
