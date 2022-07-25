@@ -1,13 +1,13 @@
 # statistical-chunk-based-attention
 This repository contains the statistical analysis for the following article:
 
-title: Visual statistical learning provides scaffolding for emerging object representations
+title: Statistically defined visual chunks engage object-based attention
 
 Authors: Gábor Lengyel, Marton Nagy & József Fiser
 
-DOI: TBA
+DOI: https://doi.org/10.1038/s41467-020-20589-z
 
-The scripts were written by Gabor Lengyel
+The scripts were written by Gabor Lengyel (early & busy phd years = ugly inefficient coding)
 
 
 Instructions:
